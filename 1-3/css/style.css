@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.title-1{
+    color: orange;
+}
+.box{
+    width: 300px;
+    height: auto;
+    padding: 30px;
+    background-color: sienna;
+    border: 5px solid rgb(45, 92, 7);
+}
